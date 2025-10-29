@@ -143,4 +143,4 @@ class Solution {
 
 The overall time complexity for both approach 2 and approach 3 is O(n).
 
-The space complexity for both approach 2 an dapproach 3 is O(1).
+The space complexity for both approach 2 and approach 3 is O(1).
