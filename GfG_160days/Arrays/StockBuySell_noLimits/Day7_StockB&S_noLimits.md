@@ -21,7 +21,7 @@ Explanation: Buy the stock on day 3 and sell it on day 4 => 4 – 2 = 2. Maximum
 
 ## Solution:
 
-### *Approach 1: BRecursion method*
+### *Approach 1: Recursion method*
 
 Use recursion, to find all possible Buy-Sell combinations to find out the maximum profit that can be made by analyzing all possible combinations and choosing the maximum profit ones and then adding them together.
 
@@ -134,4 +134,4 @@ The time complexity of Approach 2 and Approach 3 is O(n).
 
 The space complexity of Approach 1 is O(n).
 
-The space complexity of Approach 2 and Approach 3 is O{1}.
+The space complexity of Approach 2 and Approach 3 is O(1).
